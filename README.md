@@ -2,9 +2,9 @@
 
    ### Equipe:
      
-   * [*Ana Livia cândido*](https://github.com/hellgby)
+   * *Ana Livia Cândido Carneiro*
    * [*Brenda Mônica*](https://github.com/brwndag)
-   * *Francisco Levi Barros da Cunha*
+   * [*Francisco Levi*](https://github.com/spyvanilla)
    * [*Glaive Helles*](https://github.com/glaivehBR)
    * [*Gustavo Fontenele*](https://github.com/fontenelegustavo)
   
